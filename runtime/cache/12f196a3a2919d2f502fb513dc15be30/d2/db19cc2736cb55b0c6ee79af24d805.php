@@ -1,0 +1,3 @@
+<?php
+//000000000003[{"rec_id":432,"order_id":337,"goods_id":106,"goods_name":"Haier\/\u6d77\u5c14 BCD-572WDPM 572\u5347 \u5bf9\u5f00\u95e8\u7535\u51b0\u7bb1 \u98ce\u51b7\u65e0\u971c \u5927\u5bb9\u91cf","goods_sn":"TP0000106","goods_num":1,"market_price":"400.00","goods_price":"300.00","cost_price":"0.00","member_goods_price":"300.00","give_integral":0,"spec_key":"","spec_key_name":"","bar_code":"","is_comment":0,"prom_type":0,"prom_id":0,"is_send":0,"delivery_id":0,"sku":"","store_id":2,"commission":13,"is_checkout":0,"deleted":0,"distribut":"0.00"}]
+?>

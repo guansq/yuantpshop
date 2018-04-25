@@ -1,0 +1,3 @@
+<?php
+//000000000003[{"rec_id":433,"order_id":338,"goods_id":80,"goods_name":"\u6cd5\u5a07\u5170\u4e00\u7247\u5f0f\u65e0\u94a2\u5708\u805a\u62e2\u6587\u80f8 \u51ac\u5b63\u65e0\u75d5\u5149\u9762\u5185\u8863\u5973\u900f\u6c14\u8c03\u6574\u578b\u80f8\u7f69","goods_sn":"TP0000080","goods_num":1,"market_price":"179.00","goods_price":"79.00","cost_price":"0.00","member_goods_price":"75.05","give_integral":0,"spec_key":"93","spec_key_name":"\u5c3a\u7801:80A","bar_code":"","is_comment":0,"prom_type":0,"prom_id":0,"is_send":0,"delivery_id":0,"sku":"","store_id":3,"commission":20,"is_checkout":0,"deleted":0,"distribut":"0.00"}]
+?>

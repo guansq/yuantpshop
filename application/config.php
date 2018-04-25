@@ -196,7 +196,7 @@ return [
         // 缓存保存目录
         'path'   => CACHE_PATH,
         // 缓存前缀
-        'prefix' => 'tpshop_cache_prefix',
+        'prefix' => '12f196a3a2919d2f502fb513dc15be30',
         // 缓存有效期 0表示永久缓存
         'expire' => 0,
     ],

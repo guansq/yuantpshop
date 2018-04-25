@@ -1,0 +1,3 @@
+<?php
+//000000000003[{"rec_id":440,"order_id":343,"goods_id":126,"goods_name":"Canon\/\u4f73\u80fd EOS 700D\u5957\u673a\uff0818-55mm)\u6570\u7801\u5355\u53cd\u76f8\u673a \u82cf\u5b81\u6613\u8d2d","goods_sn":"TP0000126","goods_num":1,"market_price":"3599.00","goods_price":"3499.00","cost_price":"0.00","member_goods_price":"3499.00","give_integral":0,"spec_key":"","spec_key_name":"","bar_code":"","is_comment":0,"prom_type":0,"prom_id":0,"is_send":0,"delivery_id":0,"sku":"","store_id":2,"commission":0,"is_checkout":0,"deleted":0,"distribut":"0.00"}]
+?>
